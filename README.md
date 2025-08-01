@@ -50,7 +50,6 @@ It was a fun project to blend **data handling** and **user interaction** — and
   - Mean, Median, and Mode for numeric columns  
 - 💾 **Export analysis report** as:
   - `.txt` (plain readable)
-  - `.pdf` (clean and formatted)
 
 All done through a simple window — no coding or terminal required.
 
@@ -63,7 +62,6 @@ All done through a simple window — no coding or terminal required.
 | Python    | Core programming            |
 | Pandas    | Data analysis + stats       |
 | Tkinter   | Building the GUI            |
-| FPDF      | Exporting to PDF format     |
 
 No fancy frameworks. Just raw Python power 💪
 
