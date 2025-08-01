@@ -147,5 +147,3 @@ brew install python-tk
 ## 👨‍💻 Author
 
 Built with ❤️ by [Chirag Dhawan](https://github.com/chiragdhawan07)
-
-
